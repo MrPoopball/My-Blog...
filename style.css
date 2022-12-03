@@ -1,0 +1,44 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+body{
+    font-family: 'Sono', sans-serif;
+}
+
+.travel_mainDiv{
+    width: 100%;
+}
+
+.travel_mainDiv{
+
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+}
+    
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: rgb(255, 217, 0);
+}
+
+.book{
+    margin-bottom: 20px;
+}
+
+
+
+    
